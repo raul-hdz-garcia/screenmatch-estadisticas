@@ -1,4 +1,4 @@
-# screenmatch-estadisticas
+# Evaluaciones de series
 
 **Tecnologías utilizadas:**
 - Java
